@@ -1,0 +1,27 @@
+#card{
+    height: 400px;
+    width: 300px;
+    background-color: rgb(229, 231, 229);
+    border-radius: 10px;
+    box-shadow: 2px 3px 5px 1px;
+}
+
+#img_section img{
+    height: 130px;
+    width: 130px;
+    margin-top: 30px;
+    border-radius: 50%;
+}
+
+h4{
+    margin-top: -17px;
+}
+#par{
+    width: 250px;
+    margin-top: -15px;
+}
+
+.p{
+    margin-top: -13px;
+
+}
